@@ -10,7 +10,7 @@
   "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "Put your session-id here. Must Start with 'PRINCE-MDX~'",
+      "description": "PRINCE-MDX~P5GBXu0qBqe1Jt1ImaDa",
       "required": true,
       "value": ""
     },  
@@ -20,14 +20,14 @@
       "value": "public"
     },
     "OWNER_NAME": {
-      "description": "Put Owner Name Here",
+      "description": "Lil Takku",
       "required": true,
-      "value": "PRINCE"
+      "value": "Lil Takku"
     },
     "OWNER_NUMBER": {
-      "description": "Put only one Owner Number Here ie 237xxxxx",
+      "description": "Put only one Owner Number Here ie 263715479852",
       "required": true,
-      "value": "237677224245"
+      "value": "263715479852"
     },
     "ANTI_DELETE": {
       "description": "Can be set to 'inboxonly' to recover for personal chats only, 'chatsonly' to recover for groups and personal chats only or 'true' to recover all chats and status updates. Default is 'false'. You can set up this later using .antidelete",
@@ -124,13 +124,13 @@
     "BOT_NAME": {
       "description": "You can edit this but maintain font style for uniformity. Use 'Fonts Type Keyboard' for styles.",
       "required": false,
-      "value": "𝐏𝐑𝐈𝐍𝐂𝐄 𝐌𝐃𝐗"
+      "value": "🅛🅘🅛 🅣🅐🅚🅚🅤"
     },
     
     "PACK_NAME": {
       "description": "You can enter your sticker pack name.",
       "required": false,
-      "value": "𝐏𝐑𝐈𝐍𝐂𝐄 𝐌𝐃𝐗𝐈"
+      "value": "🅛🅘🅛 🅣🅐🅚🅚🅤"
     },
     "PREFIX": {
       "description": "Your Bot Prefix (default: .) You can put your own custom prefix",
